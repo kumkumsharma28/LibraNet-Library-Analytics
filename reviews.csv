@@ -1,0 +1,51 @@
+id,book_id,comment,rating,review_date,user_id
+1,3,Read it in one weekend.,5,2023-04-02 07:01:30,1
+2,1,"Slow start, great ending.",4,2021-10-11 20:58:19,3
+3,4,Could not put it down.,4,2021-10-01 07:48:36,1
+4,3,"Recommended by the librarian, and rightly.",2,2022-11-27 02:27:33,2
+5,2,Could not put it down.,4,2024-09-02 19:44:17,2
+6,12,The audiobook is better.,5,2025-02-02 22:59:23,2
+7,1,Our book club loved it.,2,2024-07-21 18:24:43,14
+8,1,Not for me.,5,2025-09-25 23:59:44,13
+9,11,,4,2021-05-08 10:23:49,14
+10,6,Could not put it down.,4,2025-05-30 21:21:43,21
+11,6,"Slow start, great ending.",3,2021-06-15 08:00:15,3
+12,8,,1,2025-06-08 10:23:08,1
+13,8,,3,2025-05-12 20:01:41,11
+14,1,,3,2025-12-04 15:04:19,4
+15,1,Not for me.,2,2024-11-28 14:32:11,18
+16,1,Our book club loved it.,5,2025-10-24 08:13:40,16
+17,5,,5,2025-02-21 20:38:24,5
+18,3,Could not put it down.,5,2021-07-17 21:07:04,15
+19,7,,2,2022-12-18 13:45:23,16
+20,1,,5,2022-01-21 12:49:44,2
+21,5,Read it in one weekend.,5,2023-12-04 09:04:25,26
+22,1,,4,2022-03-20 17:17:51,6
+23,5,The audiobook is better.,5,2023-10-21 20:45:27,11
+24,1,"Recommended by the librarian, and rightly.",5,2025-03-19 01:05:31,9
+25,1,,4,2024-01-05 08:32:25,5
+26,5,"Slow start, great ending.",5,2022-08-06 14:25:50,12
+27,2,Read it in one weekend.,5,2023-12-10 15:03:46,30
+28,3,,3,2022-05-19 09:57:28,27
+29,1,Read it in one weekend.,4,2021-11-23 15:20:21,3
+30,7,Read it in one weekend.,1,2022-06-16 10:11:11,1
+31,9,Not for me.,2,2021-12-25 13:12:18,23
+32,8,Could not put it down.,3,2023-08-29 16:33:04,2
+33,1,,1,2022-11-09 15:30:40,13
+34,11,Could not put it down.,5,2024-07-18 15:46:02,10
+35,1,Not for me.,2,2023-11-24 19:18:09,4
+36,3,Could not put it down.,5,2024-06-01 11:46:40,2
+37,1,"Slow start, great ending.",3,2022-05-16 16:21:48,17
+38,1,Not for me.,5,2022-03-09 09:54:36,8
+39,5,Our book club loved it.,4,2022-03-06 14:52:30,17
+40,6,"Recommended by the librarian, and rightly.",3,2025-05-18 08:29:13,7
+41,12,"Recommended by the librarian, and rightly.",5,2023-09-29 06:58:33,1
+42,7,The audiobook is better.,3,2022-12-23 19:01:35,12
+43,12,,4,2025-10-03 15:52:24,14
+44,1,Could not put it down.,3,2025-04-19 14:12:42,11
+45,7,The audiobook is better.,2,2022-04-12 20:13:10,20
+46,11,"Recommended by the librarian, and rightly.",3,2022-06-22 11:20:07,4
+47,7,Read it in one weekend.,5,2025-07-13 07:08:09,19
+48,8,The audiobook is better.,4,2024-03-03 14:28:58,2
+49,10,The audiobook is better.,1,2025-04-01 16:53:54,29
+50,12,"Recommended by the librarian, and rightly.",4,2022-11-09 17:48:47,2

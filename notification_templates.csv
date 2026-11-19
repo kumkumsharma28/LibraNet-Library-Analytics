@@ -1,0 +1,9 @@
+id,body,name,subject
+1,Sign in to your account to see the details.,hold_ready,A message from your library
+2,Sign in to your account to see the details.,overdue,A message from your library
+3,Sign in to your account to see the details.,membership_expiring,A message from your library
+4,Sign in to your account to see the details.,due_soon,A message from your library
+5,Sign in to your account to see the details.,event_reminder,A message from your library
+6,Sign in to your account to see the details.,welcome,A message from your library
+7,Sign in to your account to see the details.,password_reset,A message from your library
+8,Sign in to your account to see the details.,fine_issued,A message from your library

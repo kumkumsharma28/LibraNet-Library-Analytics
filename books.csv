@@ -1,0 +1,13 @@
+id,category_id,description,isbn,language_id,pages,publication_year,publisher_id,title
+1,16,Paperback,978-6-6618-6350-4,3,449,2007,43,Storm Night
+2,3,Paperback,978-7-2672-4260-8,3,651,2016,1,Moon Glass Harbor Sister
+3,7,Hardcover,978-1-6878-7600-8,1,496,1958,5,Sister Song Fire
+4,5,Paperback,978-6-8743-2430-8,5,509,2019,30,Glass Winter Crown Kingdom
+5,6,Paperback,978-6-6790-7727-0,3,380,2025,58,City Moon
+6,3,Paperback,978-2-2744-5004-9,10,574,2023,1,Wild Light North Distant
+7,8,Library binding,978-1-3632-7044-3,1,413,1976,2,Winter Station Midnight
+8,1,Paperback,978-9-7190-3657-6,1,611,1954,34,Distant Lost Station Silent
+9,5,Paperback,978-2-7745-4295-0,8,309,1992,9,Song Golden Burning Garden
+10,12,Library binding,978-7-9154-6759-9,1,742,2013,40,Letters Fire Daughter Broken
+11,11,Hardcover,978-5-3061-3667-6,2,466,1982,9,Broken Kingdom Garden
+12,10,Hardcover,978-5-3995-2956-0,3,426,2001,40,Ocean Broken Iron

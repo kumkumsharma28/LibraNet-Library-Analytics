@@ -1,0 +1,5 @@
+id,description,name
+1,Runs the desk,branch_manager
+2,Runs the system,member
+3,Runs a branch,librarian
+4,Runs the desk,admin
