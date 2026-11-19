@@ -1,0 +1,12 @@
+[{
+  "_id": "Technology",
+  "total_readers": 1,
+  "average_reading_duration": 240,
+  "average_rating": 4.8
+},
+{
+  "_id": "Fiction",
+  "total_readers": 1,
+  "average_reading_duration": 120,
+  "average_rating": 4.5
+}]
