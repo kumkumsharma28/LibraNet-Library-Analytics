@@ -1,0 +1,4 @@
+{"_id":1,"description":"Runs the desk","name":"branch_manager"}
+{"_id":2,"description":"Runs the system","name":"member"}
+{"_id":3,"description":"Runs a branch","name":"librarian"}
+{"_id":4,"description":"Runs the desk","name":"admin"}

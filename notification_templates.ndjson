@@ -1,0 +1,8 @@
+{"_id":1,"body":"Sign in to your account to see the details.","name":"hold_ready","subject":"A message from your library"}
+{"_id":2,"body":"Sign in to your account to see the details.","name":"overdue","subject":"A message from your library"}
+{"_id":3,"body":"Sign in to your account to see the details.","name":"membership_expiring","subject":"A message from your library"}
+{"_id":4,"body":"Sign in to your account to see the details.","name":"due_soon","subject":"A message from your library"}
+{"_id":5,"body":"Sign in to your account to see the details.","name":"event_reminder","subject":"A message from your library"}
+{"_id":6,"body":"Sign in to your account to see the details.","name":"welcome","subject":"A message from your library"}
+{"_id":7,"body":"Sign in to your account to see the details.","name":"password_reset","subject":"A message from your library"}
+{"_id":8,"body":"Sign in to your account to see the details.","name":"fine_issued","subject":"A message from your library"}

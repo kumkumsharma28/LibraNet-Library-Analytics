@@ -1,0 +1,10 @@
+{"_id":1,"hire_date":{"$date":"2010-12-20T00:00:00Z"},"library_id":5,"salary":{"$numberDecimal":"32408.66"},"user_id":1}
+{"_id":2,"hire_date":{"$date":"2012-12-16T00:00:00Z"},"library_id":6,"salary":{"$numberDecimal":"83525.06"},"user_id":30}
+{"_id":3,"hire_date":{"$date":"2023-09-28T00:00:00Z"},"library_id":6,"salary":{"$numberDecimal":"61860.86"},"user_id":15}
+{"_id":4,"hire_date":{"$date":"2005-02-24T00:00:00Z"},"library_id":5,"salary":{"$numberDecimal":"36522.58"},"user_id":13}
+{"_id":5,"hire_date":{"$date":"2023-04-05T00:00:00Z"},"library_id":6,"salary":{"$numberDecimal":"35248.62"},"user_id":23}
+{"_id":6,"hire_date":{"$date":"2016-09-22T00:00:00Z"},"library_id":1,"salary":{"$numberDecimal":"53906.08"},"user_id":25}
+{"_id":7,"hire_date":{"$date":"2020-01-26T00:00:00Z"},"library_id":4,"salary":{"$numberDecimal":"53322.37"},"user_id":3}
+{"_id":8,"hire_date":{"$date":"2010-10-09T00:00:00Z"},"library_id":1,"salary":{"$numberDecimal":"84898.01"},"user_id":12}
+{"_id":9,"hire_date":{"$date":"2019-02-07T00:00:00Z"},"library_id":1,"salary":{"$numberDecimal":"77176.21"},"user_id":7}
+{"_id":10,"hire_date":{"$date":"2006-07-27T00:00:00Z"},"library_id":1,"salary":{"$numberDecimal":"83606.37"},"user_id":5}

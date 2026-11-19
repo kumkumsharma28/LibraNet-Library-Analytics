@@ -1,0 +1,10 @@
+{"_id":1,"delivery_date":{"$date":"2021-06-12T20:14:50Z"},"order_date":{"$date":"2021-05-18T19:26:25Z"},"staff_id":7,"status":"received","supplier_id":6,"total_cost":{"$numberDecimal":"9976.58"}}
+{"_id":2,"delivery_date":{"$date":"2022-07-17T17:00:23Z"},"order_date":{"$date":"2022-06-28T01:11:02Z"},"staff_id":3,"status":"received","supplier_id":6,"total_cost":{"$numberDecimal":"4415.25"}}
+{"_id":3,"delivery_date":{"$date":"2023-11-18T05:59:20Z"},"order_date":{"$date":"2023-11-06T05:46:50Z"},"staff_id":3,"status":"received","supplier_id":9,"total_cost":{"$numberDecimal":"2497.88"}}
+{"_id":4,"delivery_date":{"$date":"2025-11-19T18:02:55Z"},"order_date":{"$date":"2025-11-11T07:05:51Z"},"staff_id":1,"status":"received","supplier_id":3,"total_cost":{"$numberDecimal":"6330.15"}}
+{"_id":5,"delivery_date":{"$date":"2023-03-20T19:57:03Z"},"order_date":{"$date":"2023-03-07T03:13:31Z"},"staff_id":1,"status":"received","supplier_id":5,"total_cost":{"$numberDecimal":"8895.43"}}
+{"_id":6,"delivery_date":{"$date":"2021-01-01T17:48:54Z"},"order_date":{"$date":"2021-01-01T13:07:20Z"},"staff_id":1,"status":"ordered","supplier_id":4,"total_cost":{"$numberDecimal":"2188.35"}}
+{"_id":7,"delivery_date":{"$date":"2022-02-03T06:07:47Z"},"order_date":{"$date":"2022-01-29T04:07:20Z"},"staff_id":9,"status":"received","supplier_id":1,"total_cost":{"$numberDecimal":"1958.91"}}
+{"_id":8,"delivery_date":{"$date":"2022-06-03T23:38:00Z"},"order_date":{"$date":"2022-05-13T23:04:00Z"},"staff_id":1,"status":"received","supplier_id":1,"total_cost":{"$numberDecimal":"9875.12"}}
+{"_id":9,"delivery_date":{"$date":"2025-06-24T19:00:09Z"},"order_date":{"$date":"2025-06-19T21:16:05Z"},"staff_id":6,"status":"received","supplier_id":7,"total_cost":{"$numberDecimal":"3941.35"}}
+{"_id":10,"delivery_date":{"$date":"2025-12-22T00:42:38Z"},"order_date":{"$date":"2025-12-13T14:17:19Z"},"staff_id":7,"status":"received","supplier_id":7,"total_cost":{"$numberDecimal":"8687.39"}}

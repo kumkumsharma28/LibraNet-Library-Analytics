@@ -1,0 +1,20 @@
+{"_id":1,"description":"Popular reads","name":"Historical fiction"}
+{"_id":2,"description":"Adult collection","name":"Poetry"}
+{"_id":3,"description":"Adult collection","name":"Cooking"}
+{"_id":4,"description":"Popular reads","name":"Romance"}
+{"_id":5,"description":"Adult collection","name":"Fantasy"}
+{"_id":6,"description":"Children and teens","name":"Literary fiction"}
+{"_id":7,"description":"Adult collection","name":"History"}
+{"_id":8,"description":"Adult collection","name":"Travel"}
+{"_id":9,"description":"Adult collection","name":"Thriller"}
+{"_id":10,"description":"Popular reads","name":"Self-help"}
+{"_id":11,"description":"Popular reads","name":"Children"}
+{"_id":12,"description":"Adult collection","name":"Young adult"}
+{"_id":13,"description":"Adult collection","name":"Graphic novels"}
+{"_id":14,"description":"Reference only, not for loan","name":"Mystery"}
+{"_id":15,"description":"Popular reads","name":"Biography"}
+{"_id":16,"description":"Adult collection","name":"Reference"}
+{"_id":17,"description":"Reference only, not for loan","name":"Health"}
+{"_id":18,"description":"Adult collection","name":"Science"}
+{"_id":19,"description":"Adult collection","name":"Business"}
+{"_id":20,"description":"Adult collection","name":"Science fiction"}

@@ -1,0 +1,10 @@
+{"_id":1,"book_id":12,"purchase_order_id":1,"quantity":4,"unit_price":{"$numberDecimal":"58.55"}}
+{"_id":2,"book_id":7,"purchase_order_id":1,"quantity":3,"unit_price":{"$numberDecimal":"52.11"}}
+{"_id":3,"book_id":1,"purchase_order_id":10,"quantity":6,"unit_price":{"$numberDecimal":"10.93"}}
+{"_id":4,"book_id":3,"purchase_order_id":1,"quantity":3,"unit_price":{"$numberDecimal":"9.37"}}
+{"_id":5,"book_id":2,"purchase_order_id":5,"quantity":3,"unit_price":{"$numberDecimal":"6.67"}}
+{"_id":6,"book_id":2,"purchase_order_id":10,"quantity":6,"unit_price":{"$numberDecimal":"7.56"}}
+{"_id":7,"book_id":9,"purchase_order_id":3,"quantity":3,"unit_price":{"$numberDecimal":"41.30"}}
+{"_id":8,"book_id":3,"purchase_order_id":1,"quantity":3,"unit_price":{"$numberDecimal":"34.09"}}
+{"_id":9,"book_id":1,"purchase_order_id":1,"quantity":4,"unit_price":{"$numberDecimal":"46.28"}}
+{"_id":10,"book_id":1,"purchase_order_id":1,"quantity":4,"unit_price":{"$numberDecimal":"19.32"}}

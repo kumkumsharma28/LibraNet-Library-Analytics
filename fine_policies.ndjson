@@ -1,0 +1,4 @@
+{"_id":1,"daily_rate":{"$numberDecimal":"0.21"},"max_fine":{"$numberDecimal":"32.12"},"name":"children"}
+{"_id":2,"daily_rate":{"$numberDecimal":"0.79"},"max_fine":{"$numberDecimal":"43.24"},"name":"interlibrary"}
+{"_id":3,"daily_rate":{"$numberDecimal":"0.59"},"max_fine":{"$numberDecimal":"47.47"},"name":"reference"}
+{"_id":4,"daily_rate":{"$numberDecimal":"0.86"},"max_fine":{"$numberDecimal":"42.29"},"name":"standard"}
